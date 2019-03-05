@@ -1,0 +1,117 @@
+.headimg{
+ height: 200px;
+ width: 180px;
+    margin-right: 10px;
+    float: left;
+    
+}
+#welcometext > header{
+    color: rgba(172, 21, 56, 0.81);
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+#headername{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+body{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: cursive;
+}
+.searchbox{
+    float: right;
+    
+}
+.productarticlethumbnail{
+    height: 300px;
+    position: relative;
+}
+header{
+    font-weight: bold;
+}
+.wi{
+    height: 200px;
+    width: 760px;
+}
+nav ul{
+    list-style: none;
+    padding: 0px;
+}
+nav a:hover{
+    color: rgba(239, 192, 183, 0.94);
+}
+.backgroundgradient{
+    background:hsla(348, 58%, 40%, 0.71);
+    color: white;
+}
+.navlink{
+    padding: 12px;
+    float: left;
+    font-size:15px;
+    padding-top: 12px;
+    color: white;
+    background: hsla(348, 58%, 40%, 0.71);
+}
+#events{
+    float: right;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-top: 20pxl
+}
+#events > header{
+    margin-left: 10px;
+    color: rgba(152, 10, 10, 0.72);
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 3px;
+        
+}
+#events > ul{
+    list-style: none;
+}
+#events > ul > li{
+    margin-bottom: 3px.
+}
+ul{
+    list-style: none;
+}
+.productarticle{
+    width: 200px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 10px;    
+}
+.productarticlethumbnail{
+    width: 150px;
+    height: 220px;
+}
+.productarticlename{
+    font-size: 17px;
+    color:#892727;
+    font-weight: bold;
+}
+.productarticleprice,.productarticleauthor{
+    font-size: 15px;
+    color:darkolivegreen;
+    font-family: monospace;
+}
+.addcartbutton{
+    cursor: pointer;
+    padding:5px 4px ;
+    background: rgba(74, 88, 145, 0.93);
+    border-radius: 8px;
+    box-shadow: 0 0 4px rgba(23, 19, 19, 0.75);
+    color:#f2fbff;
+    font-size:15px;
+    width:150px;
+}
+.addcartbutton:hover,.addcartbutton:focus{
+    background-color: #6d6b6d;
+}
+footer{
+    clear: both;
+    width:100%;
+    background-color: #e3e3d7
+}
